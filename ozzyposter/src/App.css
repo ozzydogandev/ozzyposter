@@ -35,7 +35,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   /* center all children */
-  padding: 16px;
+  padding: 24px;
 }
 .logo {
   width: 350px;
