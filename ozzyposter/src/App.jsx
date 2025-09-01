@@ -1,7 +1,11 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import poster from "./assets/ozzy-poster3.svg";
-import { Button, Menu, Portal } from "@chakra-ui/react";
+import {
+  Button,
+  Menu, MenuItem,
+  Portal,
+} from "@chakra-ui/react";
 
 // ---------------------- helpers ----------------------
 function randInt(n) { return Math.floor(Math.random() * n); }
@@ -13,7 +17,11 @@ const RECENT_WINDOW = 20;
 // ---------------------- component ----------------------
 export default function App() {
   const [screen, setScreen] = useState("setup"); // 'setup' | 'countdown' | 'handoff' | 'reveal' | 'done'
-  const [playerCount, setPlayerCount] = useState(6);
+  const [playerInput, setPlayerInput] = useState(''); // '' means empty field
+  const [lastCount, setLastCount] = useState(() => {
+  const s = localStorage.getItem('ozzyposter_last_count');
+  return s ? Number(s) : ""; // default fallback
+});
   const [mode, setMode] = useState("select");    // 'select' | 'different'
   const [countdown, setCountdown] = useState(3);
 
@@ -94,28 +102,39 @@ function ResetButton({ onClick }) {
 
   // ---------------------- game flow ----------------------
   const wordsReady = linkedWords.length > 0 && !loadingWords;
-  const canStart = playerCount >= 3 && playerCount <= 24 && wordsReady;
+  const effectiveCount = playerInput === '' ? lastCount : Number(playerInput);
+  const canStart =
+    playerCountOk(effectiveCount) && wordsReady;
 
-  function startGame() {
-    const chosen = pickNextWordObj();
-    if (!chosen) return;
-
-    const impostor = randInt(playerCount);
-    setMainWord(chosen.w);
-    setImposterIndex(impostor);
-
-    if (mode === "different") {
-      setImposterWord(chosen.rel);
-    } else {
-      setImposterWord(null);
-    }
-
-    pushRecent(chosen.w);
-
-    setCurrentPlayer(0);
-    setCountdown(3);
-    setScreen("countdown");
+  function playerCountOk(n) {
+    return Number.isFinite(n) && n >= 3 && n <= 24;
   }
+
+function startGame() {
+  const count = effectiveCount;
+  if (!playerCountOk(count)) return;
+
+  // persist last used only when user typed something new
+  if (playerInput !== '') {
+    setLastCount(count);
+    try { localStorage.setItem('ozzyposter_last_count', String(count)); } catch {}
+  }
+
+  const chosen = pickNextWordObj();
+  if (!chosen) return;
+
+  const impostor = randInt(count);
+  setMainWord(chosen.w);
+  setImposterIndex(impostor);
+  setImposterWord(mode === 'different' ? chosen.rel : null);
+
+  setCurrentPlayer(0);
+  setCountdown(3);
+  setScreen('countdown');
+
+  // keep the field empty for next round (as you wanted)
+  setPlayerInput('');
+}
 
   // countdown
   useEffect(() => {
@@ -148,14 +167,14 @@ function ResetButton({ onClick }) {
     if (i === imposterIndex) {
       return {
         title: `Secret word: ${imposterWord}`,
-        detail: "Yours is related to the others' word.",
+        detail: "One player has a related word.",
       };
     }
     return { title: `Secret word: ${mainWord}`, detail: "One player has a related word." };
   }
 
   function onConfirm() {
-    if (currentPlayer + 1 < playerCount) {
+    if (currentPlayer + 1 < effectiveCount) {
       setCurrentPlayer((p) => p + 1);
       setScreen("handoff");
     } else {
@@ -180,14 +199,19 @@ function ResetButton({ onClick }) {
             <div className="row">
               <label>
                 How many players?
-                <input
-                  type="number"
-                  min={3}
-                  max={24}
-                  value={playerCount}
-                  onChange={(e) => setPlayerCount(Number(e.target.value || 0))}
-                />
-              </label>
+                  <input
+                    type="number"
+                    min={3}
+                    max={24}
+                    value={playerInput}                   // stays '' when empty
+                    placeholder={String(lastCount)}       // shows last used as hint
+                    onChange={(e) => {
+                      const v = e.target.value;
+                      // allow empty, otherwise keep as-is (browser enforces numeric)
+                      setPlayerInput(v === '' ? '' : v);
+                    }}
+                  />
+                </label>
             </div>
           </div>
 
@@ -255,7 +279,7 @@ function ResetButton({ onClick }) {
             <div className="section button-stack">
               <button className="btn" onClick={()=>setScreen('reveal')}>I'm ready</button>
             </div>
-            <div className="smallmuted" style={{marginTop:10}}>{currentPlayer + 1} / {playerCount}</div>
+            <div className="smallmuted" style={{marginTop:10}}>{currentPlayer + 1} / {effectiveCount}</div>
           </div>
           <ResetButton onClick={() => setScreen('setup')} />
         </>
@@ -265,7 +289,7 @@ function ResetButton({ onClick }) {
         <>
           <div className="card center">
             <div className="smallmuted" style={{marginBottom:6}}>
-              Player {currentPlayer + 1} of {playerCount}
+              Player {currentPlayer + 1} of {effectiveCount}
             </div>
             {(() => {
               const d = getDisplayForPlayer(currentPlayer)
