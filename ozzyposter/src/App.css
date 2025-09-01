@@ -25,15 +25,20 @@ body {
   background: url('/background.jpg') no-repeat center center fixed;
   background-size: cover;
 }
-
 .app {
-  min-height: 100%;
+  width: 100%;
+  max-width: 600px;
+  /* keep it readable */
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
-  padding: 25px;
+  justify-content: flex-start;
+  align-items: center;
+  /* center all children */
+  padding: 16px;
 }
 .logo {
-  width: 310px;
+  width: 350px;
   height: auto;
 }
 
@@ -98,7 +103,7 @@ select {
   gap: 12px;
 }
 
-@media (min-width: 420px) {
+@media (min-width: 450px) {
   .row {
     grid-template-columns: 1fr 1fr;
   }
