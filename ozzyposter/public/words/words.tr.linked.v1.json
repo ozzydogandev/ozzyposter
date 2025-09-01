@@ -1,0 +1,3066 @@
+[
+  {
+    "w": "doktor",
+    "rel": "hemşire"
+  },
+  {
+    "w": "hemşire",
+    "rel": "eczacı"
+  },
+  {
+    "w": "eczacı",
+    "rel": "öğretmen"
+  },
+  {
+    "w": "öğretmen",
+    "rel": "profesör"
+  },
+  {
+    "w": "profesör",
+    "rel": "mühendis"
+  },
+  {
+    "w": "mühendis",
+    "rel": "mimar"
+  },
+  {
+    "w": "mimar",
+    "rel": "avukat"
+  },
+  {
+    "w": "avukat",
+    "rel": "hakim"
+  },
+  {
+    "w": "hakim",
+    "rel": "savcı"
+  },
+  {
+    "w": "savcı",
+    "rel": "polis"
+  },
+  {
+    "w": "polis",
+    "rel": "itfaiyeci"
+  },
+  {
+    "w": "itfaiyeci",
+    "rel": "asker"
+  },
+  {
+    "w": "asker",
+    "rel": "pilot"
+  },
+  {
+    "w": "pilot",
+    "rel": "kaptan"
+  },
+  {
+    "w": "kaptan",
+    "rel": "şoför"
+  },
+  {
+    "w": "şoför",
+    "rel": "yazılımcı"
+  },
+  {
+    "w": "yazılımcı",
+    "rel": "tasarımcı"
+  },
+  {
+    "w": "tasarımcı",
+    "rel": "grafiker"
+  },
+  {
+    "w": "grafiker",
+    "rel": "fotoğrafçı"
+  },
+  {
+    "w": "fotoğrafçı",
+    "rel": "aşçı"
+  },
+  {
+    "w": "aşçı",
+    "rel": "garson"
+  },
+  {
+    "w": "garson",
+    "rel": "kasiyer"
+  },
+  {
+    "w": "kasiyer",
+    "rel": "kasap"
+  },
+  {
+    "w": "kasap",
+    "rel": "manav"
+  },
+  {
+    "w": "manav",
+    "rel": "fırıncı"
+  },
+  {
+    "w": "fırıncı",
+    "rel": "terzi"
+  },
+  {
+    "w": "terzi",
+    "rel": "berber"
+  },
+  {
+    "w": "berber",
+    "rel": "kuaför"
+  },
+  {
+    "w": "kuaför",
+    "rel": "dişçi"
+  },
+  {
+    "w": "dişçi",
+    "rel": "diş hekimi"
+  },
+  {
+    "w": "diş hekimi",
+    "rel": "psikolog"
+  },
+  {
+    "w": "psikolog",
+    "rel": "psikiyatrist"
+  },
+  {
+    "w": "psikiyatrist",
+    "rel": "fizyoterapist"
+  },
+  {
+    "w": "fizyoterapist",
+    "rel": "sporcu"
+  },
+  {
+    "w": "sporcu",
+    "rel": "antrenör"
+  },
+  {
+    "w": "antrenör",
+    "rel": "hakem"
+  },
+  {
+    "w": "hakem",
+    "rel": "çiftçi"
+  },
+  {
+    "w": "çiftçi",
+    "rel": "bahçıvan"
+  },
+  {
+    "w": "bahçıvan",
+    "rel": "elektrikçi"
+  },
+  {
+    "w": "elektrikçi",
+    "rel": "tesisatçı"
+  },
+  {
+    "w": "tesisatçı",
+    "rel": "boyacı"
+  },
+  {
+    "w": "boyacı",
+    "rel": "usta"
+  },
+  {
+    "w": "usta",
+    "rel": "işçi"
+  },
+  {
+    "w": "işçi",
+    "rel": "sekreter"
+  },
+  {
+    "w": "sekreter",
+    "rel": "yönetici"
+  },
+  {
+    "w": "yönetici",
+    "rel": "müdür"
+  },
+  {
+    "w": "müdür",
+    "rel": "girişimci"
+  },
+  {
+    "w": "girişimci",
+    "rel": "esnaf"
+  },
+  {
+    "w": "esnaf",
+    "rel": "satışçı"
+  },
+  {
+    "w": "satışçı",
+    "rel": "pazarlamacı"
+  },
+  {
+    "w": "pazarlamacı",
+    "rel": "resepsiyonist"
+  },
+  {
+    "w": "resepsiyonist",
+    "rel": "bankacı"
+  },
+  {
+    "w": "bankacı",
+    "rel": "ekonomist"
+  },
+  {
+    "w": "ekonomist",
+    "rel": "muhasebeci"
+  },
+  {
+    "w": "muhasebeci",
+    "rel": "analist"
+  },
+  {
+    "w": "analist",
+    "rel": "arkeolog"
+  },
+  {
+    "w": "arkeolog",
+    "rel": "antropolog"
+  },
+  {
+    "w": "antropolog",
+    "rel": "çevirmen"
+  },
+  {
+    "w": "çevirmen",
+    "rel": "editör"
+  },
+  {
+    "w": "editör",
+    "rel": "yazar"
+  },
+  {
+    "w": "yazar",
+    "rel": "şair"
+  },
+  {
+    "w": "şair",
+    "rel": "oyuncu"
+  },
+  {
+    "w": "oyuncu",
+    "rel": "sahne"
+  },
+  {
+    "w": "tiyatrocu",
+    "rel": "sunucu"
+  },
+  {
+    "w": "sunucu",
+    "rel": "ağ"
+  },
+  {
+    "w": "spiker",
+    "rel": "muhabir"
+  },
+  {
+    "w": "muhabir",
+    "rel": "gazeteci"
+  },
+  {
+    "w": "gazeteci",
+    "rel": "youtuber"
+  },
+  {
+    "w": "youtuber",
+    "rel": "influencer"
+  },
+  {
+    "w": "influencer",
+    "rel": "blogger"
+  },
+  {
+    "w": "blogger",
+    "rel": "araştırmacı"
+  },
+  {
+    "w": "araştırmacı",
+    "rel": "bilim insanı"
+  },
+  {
+    "w": "bilim insanı",
+    "rel": "astronom"
+  },
+  {
+    "w": "astronom",
+    "rel": "biyolog"
+  },
+  {
+    "w": "biyolog",
+    "rel": "kimyager"
+  },
+  {
+    "w": "kimyager",
+    "rel": "fizikçi"
+  },
+  {
+    "w": "fizikçi",
+    "rel": "jeolog"
+  },
+  {
+    "w": "jeolog",
+    "rel": "meteorolog"
+  },
+  {
+    "w": "meteorolog",
+    "rel": "pilot asistanı"
+  },
+  {
+    "w": "pilot asistanı",
+    "rel": "güvenlik"
+  },
+  {
+    "w": "güvenlik",
+    "rel": "vale"
+  },
+  {
+    "w": "vale",
+    "rel": "postacı"
+  },
+  {
+    "w": "postacı",
+    "rel": "kuryeci"
+  },
+  {
+    "w": "kuryeci",
+    "rel": "matematikçi"
+  },
+  {
+    "w": "matematikçi",
+    "rel": "veri bilimci"
+  },
+  {
+    "w": "veri bilimci",
+    "rel": "ürün yöneticisi"
+  },
+  {
+    "w": "ürün yöneticisi",
+    "rel": "proje yöneticisi"
+  },
+  {
+    "w": "proje yöneticisi",
+    "rel": "sekreterya"
+  },
+  {
+    "w": "sekreterya",
+    "rel": "hukuk danışmanı"
+  },
+  {
+    "w": "hukuk danışmanı",
+    "rel": "doktor"
+  },
+  {
+    "w": "telefon",
+    "rel": "bilgisayar"
+  },
+  {
+    "w": "bilgisayar",
+    "rel": "laptop"
+  },
+  {
+    "w": "laptop",
+    "rel": "tablet"
+  },
+  {
+    "w": "tablet",
+    "rel": "televizyon"
+  },
+  {
+    "w": "televizyon",
+    "rel": "kumanda"
+  },
+  {
+    "w": "kumanda",
+    "rel": "klavye"
+  },
+  {
+    "w": "klavye",
+    "rel": "mouse"
+  },
+  {
+    "w": "mouse",
+    "rel": "ekran"
+  },
+  {
+    "w": "ekran",
+    "rel": "kulaklık"
+  },
+  {
+    "w": "kulaklık",
+    "rel": "hoparlör"
+  },
+  {
+    "w": "hoparlör",
+    "rel": "mikrofon"
+  },
+  {
+    "w": "mikrofon",
+    "rel": "kamera"
+  },
+  {
+    "w": "kamera",
+    "rel": "kurgu"
+  },
+  {
+    "w": "şarj aleti",
+    "rel": "powerbank"
+  },
+  {
+    "w": "powerbank",
+    "rel": "kitap"
+  },
+  {
+    "w": "kitap",
+    "rel": "defter"
+  },
+  {
+    "w": "defter",
+    "rel": "kalem"
+  },
+  {
+    "w": "kalem",
+    "rel": "silgi"
+  },
+  {
+    "w": "silgi",
+    "rel": "ölçer"
+  },
+  {
+    "w": "cetvel",
+    "rel": "çanta"
+  },
+  {
+    "w": "çanta",
+    "rel": "cüzdan"
+  },
+  {
+    "w": "cüzdan",
+    "rel": "anahtar"
+  },
+  {
+    "w": "anahtar",
+    "rel": "gözlük"
+  },
+  {
+    "w": "gözlük",
+    "rel": "saat"
+  },
+  {
+    "w": "saat",
+    "rel": "şemsiye"
+  },
+  {
+    "w": "şemsiye",
+    "rel": "cüzdan zinciri"
+  },
+  {
+    "w": "cüzdan zinciri",
+    "rel": "maske"
+  },
+  {
+    "w": "maske",
+    "rel": "not defteri"
+  },
+  {
+    "w": "not defteri",
+    "rel": "masa"
+  },
+  {
+    "w": "masa",
+    "rel": "sandalye"
+  },
+  {
+    "w": "sandalye",
+    "rel": "sehpa"
+  },
+  {
+    "w": "sehpa",
+    "rel": "dolap"
+  },
+  {
+    "w": "dolap",
+    "rel": "komodin"
+  },
+  {
+    "w": "komodin",
+    "rel": "yatak"
+  },
+  {
+    "w": "yatak",
+    "rel": "yastık"
+  },
+  {
+    "w": "yastık",
+    "rel": "örtü"
+  },
+  {
+    "w": "örtü",
+    "rel": "halı"
+  },
+  {
+    "w": "halı",
+    "rel": "perde"
+  },
+  {
+    "w": "perde",
+    "rel": "lamba"
+  },
+  {
+    "w": "lamba",
+    "rel": "ampul"
+  },
+  {
+    "w": "ampul",
+    "rel": "fener"
+  },
+  {
+    "w": "fener",
+    "rel": "mum"
+  },
+  {
+    "w": "mum",
+    "rel": "çerçeve"
+  },
+  {
+    "w": "çerçeve",
+    "rel": "ayna"
+  },
+  {
+    "w": "ayna",
+    "rel": "vazo"
+  },
+  {
+    "w": "vazo",
+    "rel": "tablo"
+  },
+  {
+    "w": "tablo",
+    "rel": "poster"
+  },
+  {
+    "w": "poster",
+    "rel": "çöp kutusu"
+  },
+  {
+    "w": "çöp kutusu",
+    "rel": "bıçak"
+  },
+  {
+    "w": "bıçak",
+    "rel": "kaşık"
+  },
+  {
+    "w": "kaşık",
+    "rel": "çatal"
+  },
+  {
+    "w": "çatal",
+    "rel": "tabak"
+  },
+  {
+    "w": "tabak",
+    "rel": "kase"
+  },
+  {
+    "w": "kase",
+    "rel": "tava"
+  },
+  {
+    "w": "tava",
+    "rel": "tencere"
+  },
+  {
+    "w": "tencere",
+    "rel": "süzgeç"
+  },
+  {
+    "w": "süzgeç",
+    "rel": "rende"
+  },
+  {
+    "w": "rende",
+    "rel": "açacak"
+  },
+  {
+    "w": "açacak",
+    "rel": "buzdolabı"
+  },
+  {
+    "w": "buzdolabı",
+    "rel": "fırın"
+  },
+  {
+    "w": "fırın",
+    "rel": "ocak"
+  },
+  {
+    "w": "ocak",
+    "rel": "mikrodalga"
+  },
+  {
+    "w": "mikrodalga",
+    "rel": "bulaşık makinesi"
+  },
+  {
+    "w": "bulaşık makinesi",
+    "rel": "çamaşır makinesi"
+  },
+  {
+    "w": "çamaşır makinesi",
+    "rel": "ütü"
+  },
+  {
+    "w": "ütü",
+    "rel": "elektrik süpürgesi"
+  },
+  {
+    "w": "elektrik süpürgesi",
+    "rel": "klima"
+  },
+  {
+    "w": "klima",
+    "rel": "ısıtıcı"
+  },
+  {
+    "w": "ısıtıcı",
+    "rel": "oyuncak"
+  },
+  {
+    "w": "oyuncak",
+    "rel": "lego"
+  },
+  {
+    "w": "lego",
+    "rel": "top"
+  },
+  {
+    "w": "top",
+    "rel": "iskambil"
+  },
+  {
+    "w": "iskambil",
+    "rel": "satranç"
+  },
+  {
+    "w": "satranç",
+    "rel": "puzzle"
+  },
+  {
+    "w": "puzzle",
+    "rel": "zımba"
+  },
+  {
+    "w": "zımba",
+    "rel": "delgeç"
+  },
+  {
+    "w": "delgeç",
+    "rel": "zarf"
+  },
+  {
+    "w": "zarf",
+    "rel": "pul"
+  },
+  {
+    "w": "pul",
+    "rel": "boya"
+  },
+  {
+    "w": "boya",
+    "rel": "fırça"
+  },
+  {
+    "w": "fırça",
+    "rel": "palet"
+  },
+  {
+    "w": "palet",
+    "rel": "tuval"
+  },
+  {
+    "w": "tuval",
+    "rel": "ip"
+  },
+  {
+    "w": "ip",
+    "rel": "iğne"
+  },
+  {
+    "w": "iğne",
+    "rel": "makas"
+  },
+  {
+    "w": "makas",
+    "rel": "metre"
+  },
+  {
+    "w": "metre",
+    "rel": "kalorifer"
+  },
+  {
+    "w": "kalorifer",
+    "rel": "termometre"
+  },
+  {
+    "w": "termometre",
+    "rel": "telefon"
+  },
+  {
+    "w": "kebap",
+    "rel": "döner"
+  },
+  {
+    "w": "döner",
+    "rel": "lahmacun"
+  },
+  {
+    "w": "lahmacun",
+    "rel": "pide"
+  },
+  {
+    "w": "pide",
+    "rel": "mantı"
+  },
+  {
+    "w": "mantı",
+    "rel": "çiğ köfte"
+  },
+  {
+    "w": "çiğ köfte",
+    "rel": "köfte"
+  },
+  {
+    "w": "köfte",
+    "rel": "menemen"
+  },
+  {
+    "w": "menemen",
+    "rel": "simit"
+  },
+  {
+    "w": "simit",
+    "rel": "börek"
+  },
+  {
+    "w": "börek",
+    "rel": "gözleme"
+  },
+  {
+    "w": "gözleme",
+    "rel": "poğaça"
+  },
+  {
+    "w": "poğaça",
+    "rel": "katmer"
+  },
+  {
+    "w": "katmer",
+    "rel": "künefe"
+  },
+  {
+    "w": "künefe",
+    "rel": "baklava"
+  },
+  {
+    "w": "baklava",
+    "rel": "lokum"
+  },
+  {
+    "w": "lokum",
+    "rel": "helva"
+  },
+  {
+    "w": "helva",
+    "rel": "kısır"
+  },
+  {
+    "w": "kısır",
+    "rel": "mercimek çorbası"
+  },
+  {
+    "w": "mercimek çorbası",
+    "rel": "ezogelin"
+  },
+  {
+    "w": "ezogelin",
+    "rel": "yayla çorbası"
+  },
+  {
+    "w": "yayla çorbası",
+    "rel": "tarhana"
+  },
+  {
+    "w": "tarhana",
+    "rel": "pilav"
+  },
+  {
+    "w": "pilav",
+    "rel": "bulgur pilavı"
+  },
+  {
+    "w": "bulgur pilavı",
+    "rel": "dolma"
+  },
+  {
+    "w": "dolma",
+    "rel": "sarma"
+  },
+  {
+    "w": "sarma",
+    "rel": "imam bayıldı"
+  },
+  {
+    "w": "imam bayıldı",
+    "rel": "hünkar beğendi"
+  },
+  {
+    "w": "hünkar beğendi",
+    "rel": "kurufasulye"
+  },
+  {
+    "w": "kurufasulye",
+    "rel": "nohut"
+  },
+  {
+    "w": "nohut",
+    "rel": "tavuk sote"
+  },
+  {
+    "w": "tavuk sote",
+    "rel": "et sote"
+  },
+  {
+    "w": "et sote",
+    "rel": "ızgara balık"
+  },
+  {
+    "w": "ızgara balık",
+    "rel": "hamsi"
+  },
+  {
+    "w": "hamsi",
+    "rel": "levrek"
+  },
+  {
+    "w": "levrek",
+    "rel": "çupra"
+  },
+  {
+    "w": "çupra",
+    "rel": "salata"
+  },
+  {
+    "w": "salata",
+    "rel": "çoban salata"
+  },
+  {
+    "w": "çoban salata",
+    "rel": "mevsim salata"
+  },
+  {
+    "w": "mevsim salata",
+    "rel": "patates kızartması"
+  },
+  {
+    "w": "patates kızartması",
+    "rel": "mücver"
+  },
+  {
+    "w": "mücver",
+    "rel": "karnıyarık"
+  },
+  {
+    "w": "karnıyarık",
+    "rel": "musakka"
+  },
+  {
+    "w": "musakka",
+    "rel": "omelet"
+  },
+  {
+    "w": "omelet",
+    "rel": "sucuklu yumurta"
+  },
+  {
+    "w": "sucuklu yumurta",
+    "rel": "sosis"
+  },
+  {
+    "w": "sosis",
+    "rel": "peynir"
+  },
+  {
+    "w": "peynir",
+    "rel": "zeytin"
+  },
+  {
+    "w": "zeytin",
+    "rel": "reçel"
+  },
+  {
+    "w": "reçel",
+    "rel": "bal"
+  },
+  {
+    "w": "bal",
+    "rel": "kaymak"
+  },
+  {
+    "w": "kaymak",
+    "rel": "yoğurt"
+  },
+  {
+    "w": "yoğurt",
+    "rel": "ayran"
+  },
+  {
+    "w": "ayran",
+    "rel": "soda"
+  },
+  {
+    "w": "cacık",
+    "rel": "muhlama"
+  },
+  {
+    "w": "muhlama",
+    "rel": "pizza"
+  },
+  {
+    "w": "pizza",
+    "rel": "hamburger"
+  },
+  {
+    "w": "hamburger",
+    "rel": "spagetti"
+  },
+  {
+    "w": "spagetti",
+    "rel": "risotto"
+  },
+  {
+    "w": "risotto",
+    "rel": "tost"
+  },
+  {
+    "w": "tost",
+    "rel": "dürüm"
+  },
+  {
+    "w": "dürüm",
+    "rel": "kumpir"
+  },
+  {
+    "w": "kumpir",
+    "rel": "midye dolma"
+  },
+  {
+    "w": "midye dolma",
+    "rel": "tantuni"
+  },
+  {
+    "w": "tantuni",
+    "rel": "ısırgan çorbası"
+  },
+  {
+    "w": "ısırgan çorbası",
+    "rel": "bamya"
+  },
+  {
+    "w": "bamya",
+    "rel": "enginar"
+  },
+  {
+    "w": "enginar",
+    "rel": "kuzu tandır"
+  },
+  {
+    "w": "kuzu tandır",
+    "rel": "ciğer"
+  },
+  {
+    "w": "ciğer",
+    "rel": "kebap"
+  },
+  {
+    "w": "çay",
+    "rel": "kahve"
+  },
+  {
+    "w": "kahve",
+    "rel": "türk kahvesi"
+  },
+  {
+    "w": "türk kahvesi",
+    "rel": "latte"
+  },
+  {
+    "w": "latte",
+    "rel": "espresso"
+  },
+  {
+    "w": "espresso",
+    "rel": "americano"
+  },
+  {
+    "w": "americano",
+    "rel": "cappuccino"
+  },
+  {
+    "w": "cappuccino",
+    "rel": "mocha"
+  },
+  {
+    "w": "mocha",
+    "rel": "sıcak çikolata"
+  },
+  {
+    "w": "sıcak çikolata",
+    "rel": "sahlep"
+  },
+  {
+    "w": "sahlep",
+    "rel": "limonata"
+  },
+  {
+    "w": "limonata",
+    "rel": "portakal suyu"
+  },
+  {
+    "w": "portakal suyu",
+    "rel": "nar suyu"
+  },
+  {
+    "w": "nar suyu",
+    "rel": "şalgam"
+  },
+  {
+    "w": "şalgam",
+    "rel": "ayran"
+  },
+  {
+    "w": "soda",
+    "rel": "gazoz"
+  },
+  {
+    "w": "gazoz",
+    "rel": "kola"
+  },
+  {
+    "w": "kola",
+    "rel": "fanta"
+  },
+  {
+    "w": "fanta",
+    "rel": "şeftali suyu"
+  },
+  {
+    "w": "şeftali suyu",
+    "rel": "soğuk çay"
+  },
+  {
+    "w": "soğuk çay",
+    "rel": "milkshake"
+  },
+  {
+    "w": "milkshake",
+    "rel": "smoothie"
+  },
+  {
+    "w": "smoothie",
+    "rel": "enerji içeceği"
+  },
+  {
+    "w": "enerji içeceği",
+    "rel": "ıhlamur"
+  },
+  {
+    "w": "ıhlamur",
+    "rel": "kuşburnu"
+  },
+  {
+    "w": "kuşburnu",
+    "rel": "adaçayı"
+  },
+  {
+    "w": "adaçayı",
+    "rel": "naneli limon"
+  },
+  {
+    "w": "naneli limon",
+    "rel": "meyve suyu"
+  },
+  {
+    "w": "meyve suyu",
+    "rel": "su"
+  },
+  {
+    "w": "su",
+    "rel": "çay"
+  },
+  {
+    "w": "kedi",
+    "rel": "köpek"
+  },
+  {
+    "w": "köpek",
+    "rel": "kuş"
+  },
+  {
+    "w": "kuş",
+    "rel": "balık"
+  },
+  {
+    "w": "balık",
+    "rel": "kaplumbağa"
+  },
+  {
+    "w": "kaplumbağa",
+    "rel": "hamster"
+  },
+  {
+    "w": "hamster",
+    "rel": "at"
+  },
+  {
+    "w": "at",
+    "rel": "inek"
+  },
+  {
+    "w": "inek",
+    "rel": "koyun"
+  },
+  {
+    "w": "koyun",
+    "rel": "keçi"
+  },
+  {
+    "w": "keçi",
+    "rel": "tavuk"
+  },
+  {
+    "w": "tavuk",
+    "rel": "horoz"
+  },
+  {
+    "w": "horoz",
+    "rel": "ördek"
+  },
+  {
+    "w": "ördek",
+    "rel": "kaz"
+  },
+  {
+    "w": "kaz",
+    "rel": "papağan"
+  },
+  {
+    "w": "papağan",
+    "rel": "serçe"
+  },
+  {
+    "w": "serçe",
+    "rel": "güvercin"
+  },
+  {
+    "w": "güvercin",
+    "rel": "martı"
+  },
+  {
+    "w": "martı",
+    "rel": "leylek"
+  },
+  {
+    "w": "leylek",
+    "rel": "tilki"
+  },
+  {
+    "w": "tilki",
+    "rel": "ayı"
+  },
+  {
+    "w": "ayı",
+    "rel": "kurt"
+  },
+  {
+    "w": "kurt",
+    "rel": "aslan"
+  },
+  {
+    "w": "aslan",
+    "rel": "kaplan"
+  },
+  {
+    "w": "kaplan",
+    "rel": "leopar"
+  },
+  {
+    "w": "leopar",
+    "rel": "çita"
+  },
+  {
+    "w": "çita",
+    "rel": "zebra"
+  },
+  {
+    "w": "zebra",
+    "rel": "fil"
+  },
+  {
+    "w": "fil",
+    "rel": "zürafa"
+  },
+  {
+    "w": "zürafa",
+    "rel": "geyik"
+  },
+  {
+    "w": "geyik",
+    "rel": "tavşan"
+  },
+  {
+    "w": "tavşan",
+    "rel": "kirpi"
+  },
+  {
+    "w": "kirpi",
+    "rel": "sincap"
+  },
+  {
+    "w": "sincap",
+    "rel": "yılan"
+  },
+  {
+    "w": "yılan",
+    "rel": "kurbağa"
+  },
+  {
+    "w": "kurbağa",
+    "rel": "panda"
+  },
+  {
+    "w": "panda",
+    "rel": "koala"
+  },
+  {
+    "w": "koala",
+    "rel": "rakun"
+  },
+  {
+    "w": "rakun",
+    "rel": "domuz"
+  },
+  {
+    "w": "domuz",
+    "rel": "sansar"
+  },
+  {
+    "w": "sansar",
+    "rel": "kedi"
+  },
+  {
+    "w": "dağ",
+    "rel": "tepe"
+  },
+  {
+    "w": "tepe",
+    "rel": "ova"
+  },
+  {
+    "w": "ova",
+    "rel": "vadi"
+  },
+  {
+    "w": "vadi",
+    "rel": "nehir"
+  },
+  {
+    "w": "nehir",
+    "rel": "dere"
+  },
+  {
+    "w": "dere",
+    "rel": "akarsu"
+  },
+  {
+    "w": "akarsu",
+    "rel": "şelale"
+  },
+  {
+    "w": "şelale",
+    "rel": "göl"
+  },
+  {
+    "w": "göl",
+    "rel": "deniz"
+  },
+  {
+    "w": "deniz",
+    "rel": "okyanus"
+  },
+  {
+    "w": "okyanus",
+    "rel": "orman"
+  },
+  {
+    "w": "orman",
+    "rel": "koru"
+  },
+  {
+    "w": "koru",
+    "rel": "çöl"
+  },
+  {
+    "w": "çöl",
+    "rel": "ada"
+  },
+  {
+    "w": "ada",
+    "rel": "yarımada"
+  },
+  {
+    "w": "yarımada",
+    "rel": "kıyı"
+  },
+  {
+    "w": "kıyı",
+    "rel": "sahil"
+  },
+  {
+    "w": "sahil",
+    "rel": "otel"
+  },
+  {
+    "w": "plaj",
+    "rel": "kumsal"
+  },
+  {
+    "w": "kumsal",
+    "rel": "kayalık"
+  },
+  {
+    "w": "kayalık",
+    "rel": "mağara"
+  },
+  {
+    "w": "mağara",
+    "rel": "yayla"
+  },
+  {
+    "w": "yayla",
+    "rel": "mera"
+  },
+  {
+    "w": "mera",
+    "rel": "çayır"
+  },
+  {
+    "w": "çayır",
+    "rel": "orman yolu"
+  },
+  {
+    "w": "orman yolu",
+    "rel": "patika"
+  },
+  {
+    "w": "patika",
+    "rel": "bataklık"
+  },
+  {
+    "w": "bataklık",
+    "rel": "fırtına"
+  },
+  {
+    "w": "fırtına",
+    "rel": "dolu"
+  },
+  {
+    "w": "yağmur",
+    "rel": "kar"
+  },
+  {
+    "w": "kar",
+    "rel": "rüzgar"
+  },
+  {
+    "w": "dolu",
+    "rel": "güneş"
+  },
+  {
+    "w": "rüzgar",
+    "rel": "fırtına"
+  },
+  {
+    "w": "güneş",
+    "rel": "sis"
+  },
+  {
+    "w": "sis",
+    "rel": "gökkuşağı"
+  },
+  {
+    "w": "gökkuşağı",
+    "rel": "şimşek"
+  },
+  {
+    "w": "şimşek",
+    "rel": "gök gürültüsü"
+  },
+  {
+    "w": "gök gürültüsü",
+    "rel": "yağmur"
+  },
+  {
+    "w": "ay",
+    "rel": "yıl"
+  },
+  {
+    "w": "yıldız",
+    "rel": "dağ"
+  },
+  {
+    "w": "futbol",
+    "rel": "basketbol"
+  },
+  {
+    "w": "basketbol",
+    "rel": "voleybol"
+  },
+  {
+    "w": "voleybol",
+    "rel": "tenis"
+  },
+  {
+    "w": "tenis",
+    "rel": "masa tenisi"
+  },
+  {
+    "w": "masa tenisi",
+    "rel": "badminton"
+  },
+  {
+    "w": "badminton",
+    "rel": "yüzme"
+  },
+  {
+    "w": "yüzme",
+    "rel": "koşu"
+  },
+  {
+    "w": "koşu",
+    "rel": "bisiklet"
+  },
+  {
+    "w": "bisiklet",
+    "rel": "scooter"
+  },
+  {
+    "w": "boks",
+    "rel": "güreş"
+  },
+  {
+    "w": "güreş",
+    "rel": "halter"
+  },
+  {
+    "w": "halter",
+    "rel": "okçuluk"
+  },
+  {
+    "w": "okçuluk",
+    "rel": "eskrim"
+  },
+  {
+    "w": "eskrim",
+    "rel": "cimnastik"
+  },
+  {
+    "w": "cimnastik",
+    "rel": "dalgıçlık"
+  },
+  {
+    "w": "dalgıçlık",
+    "rel": "sörf"
+  },
+  {
+    "w": "sörf",
+    "rel": "kayak"
+  },
+  {
+    "w": "kayak",
+    "rel": "snowboard"
+  },
+  {
+    "w": "snowboard",
+    "rel": "dağcılık"
+  },
+  {
+    "w": "dağcılık",
+    "rel": "bilardo"
+  },
+  {
+    "w": "bilardo",
+    "rel": "bowling"
+  },
+  {
+    "w": "bowling",
+    "rel": "golf"
+  },
+  {
+    "w": "golf",
+    "rel": "hentbol"
+  },
+  {
+    "w": "hentbol",
+    "rel": "amerikan futbolu"
+  },
+  {
+    "w": "amerikan futbolu",
+    "rel": "rugby"
+  },
+  {
+    "w": "rugby",
+    "rel": "kriket"
+  },
+  {
+    "w": "kriket",
+    "rel": "dart"
+  },
+  {
+    "w": "dart",
+    "rel": "triatlon"
+  },
+  {
+    "w": "triatlon",
+    "rel": "maraton"
+  },
+  {
+    "w": "maraton",
+    "rel": "futbol"
+  },
+  {
+    "w": "kırmızı",
+    "rel": "mavi"
+  },
+  {
+    "w": "mavi",
+    "rel": "yeşil"
+  },
+  {
+    "w": "yeşil",
+    "rel": "sarı"
+  },
+  {
+    "w": "sarı",
+    "rel": "turuncu"
+  },
+  {
+    "w": "turuncu",
+    "rel": "mor"
+  },
+  {
+    "w": "mor",
+    "rel": "pembe"
+  },
+  {
+    "w": "pembe",
+    "rel": "kahverengi"
+  },
+  {
+    "w": "kahverengi",
+    "rel": "siyah"
+  },
+  {
+    "w": "siyah",
+    "rel": "beyaz"
+  },
+  {
+    "w": "beyaz",
+    "rel": "gri"
+  },
+  {
+    "w": "gri",
+    "rel": "lacivert"
+  },
+  {
+    "w": "lacivert",
+    "rel": "bordo"
+  },
+  {
+    "w": "bordo",
+    "rel": "bej"
+  },
+  {
+    "w": "bej",
+    "rel": "turkuaz"
+  },
+  {
+    "w": "turkuaz",
+    "rel": "eflatun"
+  },
+  {
+    "w": "eflatun",
+    "rel": "altın"
+  },
+  {
+    "w": "altın",
+    "rel": "gümüş"
+  },
+  {
+    "w": "gümüş",
+    "rel": "bakır"
+  },
+  {
+    "w": "bakır",
+    "rel": "şampanya"
+  },
+  {
+    "w": "şampanya",
+    "rel": "kırmızı"
+  },
+  {
+    "w": "mutluluk",
+    "rel": "üzüntü"
+  },
+  {
+    "w": "üzüntü",
+    "rel": "öfke"
+  },
+  {
+    "w": "öfke",
+    "rel": "korku"
+  },
+  {
+    "w": "korku",
+    "rel": "şaşkınlık"
+  },
+  {
+    "w": "şaşkınlık",
+    "rel": "heyecan"
+  },
+  {
+    "w": "heyecan",
+    "rel": "huzur"
+  },
+  {
+    "w": "huzur",
+    "rel": "kaygı"
+  },
+  {
+    "w": "kaygı",
+    "rel": "sevgi"
+  },
+  {
+    "w": "sevgi",
+    "rel": "nefret"
+  },
+  {
+    "w": "nefret",
+    "rel": "özlem"
+  },
+  {
+    "w": "özlem",
+    "rel": "utanma"
+  },
+  {
+    "w": "utanma",
+    "rel": "gurur"
+  },
+  {
+    "w": "gurur",
+    "rel": "pişmanlık"
+  },
+  {
+    "w": "pişmanlık",
+    "rel": "umut"
+  },
+  {
+    "w": "umut",
+    "rel": "çaresizlik"
+  },
+  {
+    "w": "çaresizlik",
+    "rel": "kıskançlık"
+  },
+  {
+    "w": "kıskançlık",
+    "rel": "şüphe"
+  },
+  {
+    "w": "şüphe",
+    "rel": "merak"
+  },
+  {
+    "w": "merak",
+    "rel": "sıkıntı"
+  },
+  {
+    "w": "sıkıntı",
+    "rel": "coşku"
+  },
+  {
+    "w": "coşku",
+    "rel": "hayranlık"
+  },
+  {
+    "w": "hayranlık",
+    "rel": "hayal kırıklığı"
+  },
+  {
+    "w": "hayal kırıklığı",
+    "rel": "rahatlama"
+  },
+  {
+    "w": "rahatlama",
+    "rel": "stres"
+  },
+  {
+    "w": "stres",
+    "rel": "motivasyon"
+  },
+  {
+    "w": "motivasyon",
+    "rel": "cesaret"
+  },
+  {
+    "w": "cesaret",
+    "rel": "özgüven"
+  },
+  {
+    "w": "özgüven",
+    "rel": "yalnızlık"
+  },
+  {
+    "w": "yalnızlık",
+    "rel": "minnet"
+  },
+  {
+    "w": "minnet",
+    "rel": "mutluluk"
+  },
+  {
+    "w": "yapay zeka",
+    "rel": "robot"
+  },
+  {
+    "w": "robot",
+    "rel": "algoritma"
+  },
+  {
+    "w": "algoritma",
+    "rel": "veri"
+  },
+  {
+    "w": "veri",
+    "rel": "bulut"
+  },
+  {
+    "w": "bulut",
+    "rel": "sunucu"
+  },
+  {
+    "w": "ağ",
+    "rel": "modem"
+  },
+  {
+    "w": "modem",
+    "rel": "router"
+  },
+  {
+    "w": "router",
+    "rel": "kablosuz"
+  },
+  {
+    "w": "kablosuz",
+    "rel": "bluetooth"
+  },
+  {
+    "w": "bluetooth",
+    "rel": "wifi"
+  },
+  {
+    "w": "wifi",
+    "rel": "uygulama"
+  },
+  {
+    "w": "uygulama",
+    "rel": "oyun motoru"
+  },
+  {
+    "w": "oyun motoru",
+    "rel": "veritabanı"
+  },
+  {
+    "w": "veritabanı",
+    "rel": "API"
+  },
+  {
+    "w": "API",
+    "rel": "tarayıcı"
+  },
+  {
+    "w": "tarayıcı",
+    "rel": "işletim sistemi"
+  },
+  {
+    "w": "işletim sistemi",
+    "rel": "Linux"
+  },
+  {
+    "w": "Linux",
+    "rel": "Windows"
+  },
+  {
+    "w": "Windows",
+    "rel": "MacOS"
+  },
+  {
+    "w": "MacOS",
+    "rel": "Android"
+  },
+  {
+    "w": "Android",
+    "rel": "iOS"
+  },
+  {
+    "w": "iOS",
+    "rel": "javascript"
+  },
+  {
+    "w": "javascript",
+    "rel": "typescript"
+  },
+  {
+    "w": "python",
+    "rel": "java"
+  },
+  {
+    "w": "java",
+    "rel": "typescript"
+  },
+  {
+    "w": "typescript",
+    "rel": "react"
+  },
+  {
+    "w": "react",
+    "rel": "node"
+  },
+  {
+    "w": "node",
+    "rel": "docker"
+  },
+  {
+    "w": "docker",
+    "rel": "kubernetes"
+  },
+  {
+    "w": "kubernetes",
+    "rel": "git"
+  },
+  {
+    "w": "git",
+    "rel": "github"
+  },
+  {
+    "w": "github",
+    "rel": "ci/cd"
+  },
+  {
+    "w": "ci/cd",
+    "rel": "pipeline"
+  },
+  {
+    "w": "pipeline",
+    "rel": "test"
+  },
+  {
+    "w": "test",
+    "rel": "tasarım sistemi"
+  },
+  {
+    "w": "tasarım sistemi",
+    "rel": "microservice"
+  },
+  {
+    "w": "microservice",
+    "rel": "monorepo"
+  },
+  {
+    "w": "monorepo",
+    "rel": "sanal gerçeklik"
+  },
+  {
+    "w": "sanal gerçeklik",
+    "rel": "artırılmış gerçeklik"
+  },
+  {
+    "w": "artırılmış gerçeklik",
+    "rel": "3D yazıcı"
+  },
+  {
+    "w": "3D yazıcı",
+    "rel": "sensör"
+  },
+  {
+    "w": "sensör",
+    "rel": "kamera modülü"
+  },
+  {
+    "w": "kamera modülü",
+    "rel": "işlemci"
+  },
+  {
+    "w": "işlemci",
+    "rel": "ram"
+  },
+  {
+    "w": "ram",
+    "rel": "ssd"
+  },
+  {
+    "w": "ssd",
+    "rel": "gpu"
+  },
+  {
+    "w": "gpu",
+    "rel": "cpu"
+  },
+  {
+    "w": "cpu",
+    "rel": "nöral ağ"
+  },
+  {
+    "w": "nöral ağ",
+    "rel": "yapay zeka"
+  },
+  {
+    "w": "araba",
+    "rel": "otobüs"
+  },
+  {
+    "w": "otobüs",
+    "rel": "minibüs"
+  },
+  {
+    "w": "minibüs",
+    "rel": "dolmuş"
+  },
+  {
+    "w": "dolmuş",
+    "rel": "metro"
+  },
+  {
+    "w": "metro",
+    "rel": "metrobüs"
+  },
+  {
+    "w": "metrobüs",
+    "rel": "tramvay"
+  },
+  {
+    "w": "tramvay",
+    "rel": "tren"
+  },
+  {
+    "w": "tren",
+    "rel": "uçak"
+  },
+  {
+    "w": "uçak",
+    "rel": "helikopter"
+  },
+  {
+    "w": "helikopter",
+    "rel": "gemi"
+  },
+  {
+    "w": "gemi",
+    "rel": "vapur"
+  },
+  {
+    "w": "vapur",
+    "rel": "feribot"
+  },
+  {
+    "w": "feribot",
+    "rel": "motosiklet"
+  },
+  {
+    "w": "motosiklet",
+    "rel": "bisiklet"
+  },
+  {
+    "w": "scooter",
+    "rel": "taksi"
+  },
+  {
+    "w": "taksi",
+    "rel": "tanker"
+  },
+  {
+    "w": "tanker",
+    "rel": "kamyon"
+  },
+  {
+    "w": "kamyon",
+    "rel": "tır"
+  },
+  {
+    "w": "tır",
+    "rel": "teleferik"
+  },
+  {
+    "w": "teleferik",
+    "rel": "kayık"
+  },
+  {
+    "w": "kayık",
+    "rel": "yelkenci"
+  },
+  {
+    "w": "yelkenci",
+    "rel": "uçurtma"
+  },
+  {
+    "w": "uçurtma",
+    "rel": "uçuş"
+  },
+  {
+    "w": "uçuş",
+    "rel": "pist"
+  },
+  {
+    "w": "pist",
+    "rel": "liman"
+  },
+  {
+    "w": "liman",
+    "rel": "istasyon"
+  },
+  {
+    "w": "istasyon",
+    "rel": "gar"
+  },
+  {
+    "w": "gar",
+    "rel": "otogar"
+  },
+  {
+    "w": "otogar",
+    "rel": "araba"
+  },
+  {
+    "w": "resim",
+    "rel": "heykel"
+  },
+  {
+    "w": "heykel",
+    "rel": "seramik"
+  },
+  {
+    "w": "seramik",
+    "rel": "grafik"
+  },
+  {
+    "w": "grafik",
+    "rel": "illüstrasyon"
+  },
+  {
+    "w": "illüstrasyon",
+    "rel": "karikatür"
+  },
+  {
+    "w": "karikatür",
+    "rel": "gravür"
+  },
+  {
+    "w": "gravür",
+    "rel": "kolaj"
+  },
+  {
+    "w": "kolaj",
+    "rel": "fotoğraf"
+  },
+  {
+    "w": "fotoğraf",
+    "rel": "kaligrafi"
+  },
+  {
+    "w": "kaligrafi",
+    "rel": "roman"
+  },
+  {
+    "w": "roman",
+    "rel": "hikaye"
+  },
+  {
+    "w": "hikaye",
+    "rel": "şiir"
+  },
+  {
+    "w": "şiir",
+    "rel": "deneme"
+  },
+  {
+    "w": "deneme",
+    "rel": "tiyatro"
+  },
+  {
+    "w": "tiyatro",
+    "rel": "müze"
+  },
+  {
+    "w": "opera",
+    "rel": "bale"
+  },
+  {
+    "w": "bale",
+    "rel": "performans"
+  },
+  {
+    "w": "performans",
+    "rel": "enstalasyon"
+  },
+  {
+    "w": "enstalasyon",
+    "rel": "video art"
+  },
+  {
+    "w": "video art",
+    "rel": "resim"
+  },
+  {
+    "w": "şarkı",
+    "rel": "albüm"
+  },
+  {
+    "w": "albüm",
+    "rel": "konser"
+  },
+  {
+    "w": "konser",
+    "rel": "nota"
+  },
+  {
+    "w": "nota",
+    "rel": "melodi"
+  },
+  {
+    "w": "melodi",
+    "rel": "ritim"
+  },
+  {
+    "w": "ritim",
+    "rel": "tempo"
+  },
+  {
+    "w": "tempo",
+    "rel": "koro"
+  },
+  {
+    "w": "koro",
+    "rel": "orkestra"
+  },
+  {
+    "w": "orkestra",
+    "rel": "şef"
+  },
+  {
+    "w": "şef",
+    "rel": "gitar"
+  },
+  {
+    "w": "gitar",
+    "rel": "piyano"
+  },
+  {
+    "w": "piyano",
+    "rel": "keman"
+  },
+  {
+    "w": "keman",
+    "rel": "flüt"
+  },
+  {
+    "w": "flüt",
+    "rel": "bateri"
+  },
+  {
+    "w": "bateri",
+    "rel": "saksafon"
+  },
+  {
+    "w": "saksafon",
+    "rel": "bağlama"
+  },
+  {
+    "w": "bağlama",
+    "rel": "ud"
+  },
+  {
+    "w": "ud",
+    "rel": "kanun"
+  },
+  {
+    "w": "kanun",
+    "rel": "klarnet"
+  },
+  {
+    "w": "klarnet",
+    "rel": "şarkı"
+  },
+  {
+    "w": "film",
+    "rel": "belgesel"
+  },
+  {
+    "w": "belgesel",
+    "rel": "kısa film"
+  },
+  {
+    "w": "kısa film",
+    "rel": "fragman"
+  },
+  {
+    "w": "fragman",
+    "rel": "senaryo"
+  },
+  {
+    "w": "senaryo",
+    "rel": "yönetmen"
+  },
+  {
+    "w": "yönetmen",
+    "rel": "oyuncu"
+  },
+  {
+    "w": "sahne",
+    "rel": "kamera"
+  },
+  {
+    "w": "kurgu",
+    "rel": "efekt"
+  },
+  {
+    "w": "efekt",
+    "rel": "dublaj"
+  },
+  {
+    "w": "dublaj",
+    "rel": "altyazı"
+  },
+  {
+    "w": "altyazı",
+    "rel": "gişe"
+  },
+  {
+    "w": "gişe",
+    "rel": "festival"
+  },
+  {
+    "w": "festival",
+    "rel": "ödül"
+  },
+  {
+    "w": "ödül",
+    "rel": "vizyon"
+  },
+  {
+    "w": "vizyon",
+    "rel": "afiş"
+  },
+  {
+    "w": "afiş",
+    "rel": "set"
+  },
+  {
+    "w": "set",
+    "rel": "kostüm"
+  },
+  {
+    "w": "kostüm",
+    "rel": "film"
+  },
+  {
+    "w": "ev",
+    "rel": "okul"
+  },
+  {
+    "w": "okul",
+    "rel": "ofis"
+  },
+  {
+    "w": "ofis",
+    "rel": "kafe"
+  },
+  {
+    "w": "kafe",
+    "rel": "restoran"
+  },
+  {
+    "w": "restoran",
+    "rel": "market"
+  },
+  {
+    "w": "market",
+    "rel": "bakkal"
+  },
+  {
+    "w": "bakkal",
+    "rel": "çarşı"
+  },
+  {
+    "w": "çarşı",
+    "rel": "pazar"
+  },
+  {
+    "w": "pazar",
+    "rel": "sinema"
+  },
+  {
+    "w": "sinema",
+    "rel": "tiyatro"
+  },
+  {
+    "w": "müze",
+    "rel": "stadyum"
+  },
+  {
+    "w": "stadyum",
+    "rel": "park"
+  },
+  {
+    "w": "park",
+    "rel": "bahçe"
+  },
+  {
+    "w": "bahçe",
+    "rel": "sahil"
+  },
+  {
+    "w": "otel",
+    "rel": "hastane"
+  },
+  {
+    "w": "hastane",
+    "rel": "eczane"
+  },
+  {
+    "w": "eczane",
+    "rel": "kütüphane"
+  },
+  {
+    "w": "kütüphane",
+    "rel": "defter"
+  },
+  {
+    "w": "mutfak",
+    "rel": "salon"
+  },
+  {
+    "w": "salon",
+    "rel": "yatak odası"
+  },
+  {
+    "w": "yatak odası",
+    "rel": "banyo"
+  },
+  {
+    "w": "banyo",
+    "rel": "balkon"
+  },
+  {
+    "w": "balkon",
+    "rel": "teras"
+  },
+  {
+    "w": "teras",
+    "rel": "koridor"
+  },
+  {
+    "w": "koridor",
+    "rel": "depo"
+  },
+  {
+    "w": "depo",
+    "rel": "çamaşır odası"
+  },
+  {
+    "w": "çamaşır odası",
+    "rel": "oturma odası"
+  },
+  {
+    "w": "oturma odası",
+    "rel": "mutfak"
+  },
+  {
+    "w": "tişört",
+    "rel": "gömlek"
+  },
+  {
+    "w": "gömlek",
+    "rel": "kazak"
+  },
+  {
+    "w": "kazak",
+    "rel": "mont"
+  },
+  {
+    "w": "mont",
+    "rel": "ceket"
+  },
+  {
+    "w": "ceket",
+    "rel": "palto"
+  },
+  {
+    "w": "palto",
+    "rel": "elbise"
+  },
+  {
+    "w": "elbise",
+    "rel": "etek"
+  },
+  {
+    "w": "etek",
+    "rel": "pantolon"
+  },
+  {
+    "w": "pantolon",
+    "rel": "şort"
+  },
+  {
+    "w": "şort",
+    "rel": "ayakkabı"
+  },
+  {
+    "w": "ayakkabı",
+    "rel": "bot"
+  },
+  {
+    "w": "bot",
+    "rel": "spor ayakkabı"
+  },
+  {
+    "w": "spor ayakkabı",
+    "rel": "terlik"
+  },
+  {
+    "w": "terlik",
+    "rel": "çorap"
+  },
+  {
+    "w": "çorap",
+    "rel": "şapka"
+  },
+  {
+    "w": "şapka",
+    "rel": "bere"
+  },
+  {
+    "w": "bere",
+    "rel": "atkı"
+  },
+  {
+    "w": "atkı",
+    "rel": "eldiven"
+  },
+  {
+    "w": "eldiven",
+    "rel": "kemer"
+  },
+  {
+    "w": "kemer",
+    "rel": "tişört"
+  },
+  {
+    "w": "tahta",
+    "rel": "sıra"
+  },
+  {
+    "w": "sıra",
+    "rel": "kürsü"
+  },
+  {
+    "w": "kürsü",
+    "rel": "projeksiyon"
+  },
+  {
+    "w": "projeksiyon",
+    "rel": "bilgisayar laboratuvarı"
+  },
+  {
+    "w": "bilgisayar laboratuvarı",
+    "rel": "kütüphane"
+  },
+  {
+    "w": "ölçer",
+    "rel": "ders"
+  },
+  {
+    "w": "ders",
+    "rel": "sınav"
+  },
+  {
+    "w": "sınav",
+    "rel": "ödev"
+  },
+  {
+    "w": "ödev",
+    "rel": "karne"
+  },
+  {
+    "w": "karne",
+    "rel": "teneffüs"
+  },
+  {
+    "w": "teneffüs",
+    "rel": "zile"
+  },
+  {
+    "w": "zile",
+    "rel": "müdür odası"
+  },
+  {
+    "w": "müdür odası",
+    "rel": "kantin"
+  },
+  {
+    "w": "kantin",
+    "rel": "rehberlik"
+  },
+  {
+    "w": "rehberlik",
+    "rel": "servis"
+  },
+  {
+    "w": "servis",
+    "rel": "tahta"
+  },
+  {
+    "w": "sabah",
+    "rel": "öğle"
+  },
+  {
+    "w": "öğle",
+    "rel": "akşam"
+  },
+  {
+    "w": "akşam",
+    "rel": "gece"
+  },
+  {
+    "w": "gece",
+    "rel": "gün"
+  },
+  {
+    "w": "gün",
+    "rel": "hafta"
+  },
+  {
+    "w": "hafta",
+    "rel": "ay"
+  },
+  {
+    "w": "yıl",
+    "rel": "dakika"
+  },
+  {
+    "w": "dakika",
+    "rel": "saniye"
+  },
+  {
+    "w": "saniye",
+    "rel": "yarın"
+  },
+  {
+    "w": "yarın",
+    "rel": "dün"
+  },
+  {
+    "w": "dün",
+    "rel": "bugün"
+  },
+  {
+    "w": "bugün",
+    "rel": "tatil"
+  },
+  {
+    "w": "tatil",
+    "rel": "hafta sonu"
+  },
+  {
+    "w": "hafta sonu",
+    "rel": "sabah"
+  },
+  {
+    "w": "barış manço",
+    "rel": "cem yılmaz"
+  },
+  {
+    "w": "cem yılmaz",
+    "rel": "acun ılıcalı"
+  },
+  {
+    "w": "acun ılıcalı",
+    "rel": "tarkan"
+  },
+  {
+    "w": "tarkan",
+    "rel": "ajda pekkan"
+  },
+  {
+    "w": "ajda pekkan",
+    "rel": "seda sayan"
+  },
+  {
+    "w": "seda sayan",
+    "rel": "sezen aksu"
+  },
+  {
+    "w": "sezen aksu",
+    "rel": "nazan öncel"
+  },
+  {
+    "w": "nazan öncel",
+    "rel": "sertab erener"
+  },
+  {
+    "w": "sertab erener",
+    "rel": "gülse birsel"
+  },
+  {
+    "w": "gülse birsel",
+    "rel": "candan erçetin"
+  },
+  {
+    "w": "candan erçetin",
+    "rel": "kenan doğulu"
+  },
+  {
+    "w": "kenan doğulu",
+    "rel": "hadise"
+  },
+  {
+    "w": "hadise",
+    "rel": "orhan pamuk"
+  },
+  {
+    "w": "orhan pamuk",
+    "rel": "elif şafak"
+  },
+  {
+    "w": "elif şafak",
+    "rel": "yılmaz erdoğan"
+  },
+  {
+    "w": "yılmaz erdoğan",
+    "rel": "ata demirer"
+  },
+  {
+    "w": "ata demirer",
+    "rel": "ahmet kaya"
+  },
+  {
+    "w": "ahmet kaya",
+    "rel": "müslüm gürses"
+  },
+  {
+    "w": "müslüm gürses",
+    "rel": "neşet ertaş"
+  },
+  {
+    "w": "neşet ertaş",
+    "rel": "zülfü livaneli"
+  },
+  {
+    "w": "zülfü livaneli",
+    "rel": "fahriye evcen"
+  },
+  {
+    "w": "fahriye evcen",
+    "rel": "burak özçivit"
+  },
+  {
+    "w": "burak özçivit",
+    "rel": "beren saat"
+  },
+  {
+    "w": "beren saat",
+    "rel": "kıvanç tatlıtuğ"
+  },
+  {
+    "w": "kıvanç tatlıtuğ",
+    "rel": "çağatay ulusoy"
+  },
+  {
+    "w": "çağatay ulusoy",
+    "rel": "engin akyürek"
+  },
+  {
+    "w": "engin akyürek",
+    "rel": "haluk bilginer"
+  },
+  {
+    "w": "haluk bilginer",
+    "rel": "çetin tekindor"
+  },
+  {
+    "w": "çetin tekindor",
+    "rel": "nuri bilge ceylan"
+  },
+  {
+    "w": "nuri bilge ceylan",
+    "rel": "fatih akın"
+  },
+  {
+    "w": "fatih akın",
+    "rel": "tuba büyüküstün"
+  },
+  {
+    "w": "tuba büyüküstün",
+    "rel": "demet akbağ"
+  },
+  {
+    "w": "demet akbağ",
+    "rel": "demet evgar"
+  },
+  {
+    "w": "demet evgar",
+    "rel": "ibrahim tatlıses"
+  },
+  {
+    "w": "ibrahim tatlıses",
+    "rel": "ferdi tayfur"
+  },
+  {
+    "w": "ferdi tayfur",
+    "rel": "hidayet türkoğlu"
+  },
+  {
+    "w": "hidayet türkoğlu",
+    "rel": "arda turan"
+  },
+  {
+    "w": "arda turan",
+    "rel": "rıdvan dilmen"
+  },
+  {
+    "w": "rıdvan dilmen",
+    "rel": "fatih terim"
+  },
+  {
+    "w": "fatih terim",
+    "rel": "kerem aktürkoğlu"
+  },
+  {
+    "w": "kerem aktürkoğlu",
+    "rel": "volkan demirel"
+  },
+  {
+    "w": "volkan demirel",
+    "rel": "alex de souza"
+  },
+  {
+    "w": "alex de souza",
+    "rel": "gheorghe hagi"
+  },
+  {
+    "w": "gheorghe hagi",
+    "rel": "barış manço"
+  },
+  {
+    "w": "istanbul",
+    "rel": "ankara"
+  },
+  {
+    "w": "ankara",
+    "rel": "izmir"
+  },
+  {
+    "w": "izmir",
+    "rel": "bursa"
+  },
+  {
+    "w": "bursa",
+    "rel": "antalya"
+  },
+  {
+    "w": "antalya",
+    "rel": "adana"
+  },
+  {
+    "w": "adana",
+    "rel": "konya"
+  },
+  {
+    "w": "konya",
+    "rel": "gaziantep"
+  },
+  {
+    "w": "gaziantep",
+    "rel": "kayseri"
+  },
+  {
+    "w": "kayseri",
+    "rel": "mersin"
+  },
+  {
+    "w": "mersin",
+    "rel": "diyarbakır"
+  },
+  {
+    "w": "diyarbakır",
+    "rel": "eskişehir"
+  },
+  {
+    "w": "eskişehir",
+    "rel": "samsun"
+  },
+  {
+    "w": "samsun",
+    "rel": "trabzon"
+  },
+  {
+    "w": "trabzon",
+    "rel": "balıkesir"
+  },
+  {
+    "w": "balıkesir",
+    "rel": "denizli"
+  },
+  {
+    "w": "denizli",
+    "rel": "kocaeli"
+  },
+  {
+    "w": "kocaeli",
+    "rel": "sakarya"
+  },
+  {
+    "w": "sakarya",
+    "rel": "tekirdağ"
+  },
+  {
+    "w": "tekirdağ",
+    "rel": "şanlıurfa"
+  },
+  {
+    "w": "şanlıurfa",
+    "rel": "istanbul"
+  },
+  {
+    "w": "new york",
+    "rel": "istanbul"
+  },
+  {
+    "w": "londra",
+    "rel": "paris"
+  },
+  {
+    "w": "paris",
+    "rel": "berlin"
+  },
+  {
+    "w": "berlin",
+    "rel": "roma"
+  },
+  {
+    "w": "roma",
+    "rel": "madrid"
+  },
+  {
+    "w": "madrid",
+    "rel": "moskova"
+  },
+  {
+    "w": "moskova",
+    "rel": "tokyo"
+  },
+  {
+    "w": "tokyo",
+    "rel": "seul"
+  },
+  {
+    "w": "seul",
+    "rel": "pekin"
+  },
+  {
+    "w": "pekin",
+    "rel": "şanghay"
+  },
+  {
+    "w": "şanghay",
+    "rel": "dubai"
+  },
+  {
+    "w": "dubai",
+    "rel": "singapur"
+  },
+  {
+    "w": "singapur",
+    "rel": "los angeles"
+  },
+  {
+    "w": "los angeles",
+    "rel": "san francisco"
+  },
+  {
+    "w": "san francisco",
+    "rel": "toronto"
+  },
+  {
+    "w": "toronto",
+    "rel": "sydney"
+  },
+  {
+    "w": "sydney",
+    "rel": "melbourne"
+  },
+  {
+    "w": "melbourne",
+    "rel": "amsterdam"
+  },
+  {
+    "w": "amsterdam",
+    "rel": "brüksel"
+  },
+  {
+    "w": "brüksel",
+    "rel": "new york"
+  },
+  {
+    "w": "galatasaray",
+    "rel": "fenerbahçe"
+  },
+  {
+    "w": "fenerbahçe",
+    "rel": "beşiktaş"
+  },
+  {
+    "w": "beşiktaş",
+    "rel": "trabzonspor"
+  },
+  {
+    "w": "trabzonspor",
+    "rel": "başakşehir"
+  },
+  {
+    "w": "başakşehir",
+    "rel": "bursaspor"
+  },
+  {
+    "w": "bursaspor",
+    "rel": "galatasaray"
+  },
+  {
+    "w": "apple",
+    "rel": "samsung"
+  },
+  {
+    "w": "samsung",
+    "rel": "huawei"
+  },
+  {
+    "w": "huawei",
+    "rel": "xiaomi"
+  },
+  {
+    "w": "xiaomi",
+    "rel": "google"
+  },
+  {
+    "w": "google",
+    "rel": "microsoft"
+  },
+  {
+    "w": "microsoft",
+    "rel": "amazon"
+  },
+  {
+    "w": "amazon",
+    "rel": "meta"
+  },
+  {
+    "w": "meta",
+    "rel": "instagram"
+  },
+  {
+    "w": "instagram",
+    "rel": "tiktok"
+  },
+  {
+    "w": "tiktok",
+    "rel": "apple"
+  },
+  {
+    "w": "bmw",
+    "rel": "mercedes"
+  },
+  {
+    "w": "mercedes",
+    "rel": "audi"
+  },
+  {
+    "w": "audi",
+    "rel": "volvo"
+  },
+  {
+    "w": "volvo",
+    "rel": "toyota"
+  },
+  {
+    "w": "toyota",
+    "rel": "honda"
+  },
+  {
+    "w": "honda",
+    "rel": "ford"
+  },
+  {
+    "w": "ford",
+    "rel": "renault"
+  },
+  {
+    "w": "renault",
+    "rel": "peugeot"
+  },
+  {
+    "w": "peugeot",
+    "rel": "fiat"
+  },
+  {
+    "w": "fiat",
+    "rel": "tesla"
+  },
+  {
+    "w": "tesla",
+    "rel": "hyundai"
+  },
+  {
+    "w": "hyundai",
+    "rel": "kia"
+  },
+  {
+    "w": "kia",
+    "rel": "bmw"
+  },
+  {
+    "w": "recep tayyip erdoğan",
+    "rel": "ekrem imamoğlu"
+  },
+  {
+    "w": "ekrem imamoğlu",
+    "rel": "mansur yavaş"
+  }
+]
